@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\DossierClinic_FullStack\DossierClinic.FullStack\Api\obj\Debug\net8.0\DossierClinic.Api.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\DossierClinic_FullStack\DossierClinic.FullStack\Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\USER\Desktop\DossierClinic_FullStack\DossierClinic.FullStack\Api\obj\Debug\net8.0\DossierClinic.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\DossierClinic_FullStack\DossierClinic.FullStack\Api\obj\Debug\net8.0\DossierClinic.Api.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\DossierClinic_FullStack\DossierClinic.FullStack\Api\obj\Debug\net8.0\DossierClinic.Api.AssemblyInfo.cs
+C:\Users\USER\Desktop\DossierClinic_FullStack\DossierClinic.FullStack\Api\obj\Debug\net8.0\DossierClinic.Api.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\DossierClinic_FullStack\DossierClinic.FullStack\Api\obj\Debug\net8.0\DossierClinic.Api.MvcApplicationPartsAssemblyInfo.cache
